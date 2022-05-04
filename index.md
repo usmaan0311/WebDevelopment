@@ -4,4 +4,6 @@
 
 ### Ga<sub>2</sub>O<sub>3</sub> polymorphs
 Ga sesquioxide exhibit five polymorphs &alpha;-, &beta;-, &gamma;-, &kappa;-/&epsilon;- and &delta;-. Most stable phase is &beta;-Ga<sub>2</sub>O<sub>3</sub> possesing highly assymetric monoclinic crystal structure. For more details about these crystal structures visit <a href="https://usmaan0311.github.io/WebDevelopment/site/" target = "_blank"> Ga<sub>2</sub>O<sub>3</sub> structure</a>
-
+<hr>
+<a href="https://usmaan0311.github.io/WebDevelopment/site/home.html" target="_blank">Home</a>
+<a href="https://usmaan0311.github.io/WebDevelopment/site/" target = "_blank"> Ga<sub>2</sub>O<sub>3</sub> structure</a>
