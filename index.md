@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Investigation of epitaxial deposition of metastable phases of Ga<sub>2</sub>O<sub>3</sub> for opto-electronic applications
+<p>Ga<sub>2</sub>O<sub>3</sub> is an ultra-wide bandgap semiconductor historically used as TCO; now re-emerged as oxide semiconductor of choice for application in niche areas of deep UV optoelectronics and power electronics. Owing to its ultra wide band gap can operate in regime of UV B, which makes it intrinsically solar blind and therefore is less noise prone with excellent UV to visible rejection ratio, low noise equivallent power, high light to dark current ratio. </p>
 
-You can use the [editor on GitHub](https://github.com/usmaan0311/WebDevelopment/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Ga<sub>2</sub>O<sub>3</sub> polymorphs
+Ga sesquioxide exhibit five polymorphs &alpha;-, &beta;-, &gamma;-, &kappa;-/&epsilon;- and &delta;-. Most stable phase is &beta;-Ga<sub>2</sub>O<sub>3</sub> possesing highly assymetric monoclinic crystal structure. For more details about these crystal structures visit <a href="https://usmaan0311.github.io/WebDevelopment/site/" target = "_blank"> Ga<sub>2</sub>O<sub>3</sub> structure</a>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/usmaan0311/WebDevelopment/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
